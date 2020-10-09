@@ -1,0 +1,5 @@
+https://es.wikipedia.org/wiki/VirtualBox
+https://www.pcresumen.com/menu-software/31-virtualizacion/41-virtualizacion-con-oracle-vm-virtualbox
+https://www.muycomputer.com/2020/03/27/hipervisor-virtualbox-vmware-hyperv/
+https://www.xataka.com/basics/virtualbox-que-como-usarlo-para-crear-maquina-virtual-windows-u-otro-sistema-operativo
+https://www.xataka.com/especiales/maquinas-virtuales-que-son-como-funcionan-y-como-utilizarlas
